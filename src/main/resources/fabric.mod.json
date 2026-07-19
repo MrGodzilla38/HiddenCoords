@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "hidden_coords",
+  "version": "${version}",
+  "name": "Hidden Coords",
+  "description": "Displays the player's coordinates in a separate Swing window.",
+  "authors": ["HiddenCoords contributors"],
+  "environment": "client",
+  "entrypoints": {
+    "main": ["dev.hiddencoords.CoordOverlayMod"],
+    "client": ["dev.hiddencoords.CoordOverlayClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": ">=1.21 <=1.21.11",
+    "java": ">=21"
+  },
+  "custom": {
+    "modmenu:clientsideOnly": true
+  }
+}
