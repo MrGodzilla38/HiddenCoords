@@ -87,6 +87,7 @@ public final class CoordWindow {
         }
         try {
             frame = new JFrame("Coordinate Overlay");
+            frame.setAutoRequestFocus(false);
             frame.setDefaultCloseOperation(WindowConstants.HIDE_ON_CLOSE);
             frame.setAlwaysOnTop(config.alwaysOnTop);
             frame.setMinimumSize(new Dimension(260, 120));
