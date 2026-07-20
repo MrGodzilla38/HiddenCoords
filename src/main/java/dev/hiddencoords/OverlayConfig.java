@@ -9,7 +9,6 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Properties;
 
-/** Small dependency-free config store for window state and placement. */
 public final class OverlayConfig {
     private static final Path FILE = FabricLoader.getInstance().getConfigDir().resolve("hidden-coords.properties");
 

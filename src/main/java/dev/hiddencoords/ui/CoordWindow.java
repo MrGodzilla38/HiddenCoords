@@ -22,7 +22,6 @@ import java.awt.event.ComponentEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-/** Owns the separate native Swing window. Every method schedules work on the EDT. */
 public final class CoordWindow {
     private final OverlayConfig config = OverlayConfig.load();
     private JFrame frame;
@@ -78,7 +77,6 @@ public final class CoordWindow {
         });
     }
 
-    /** Native display failures are contained so a bad AWT/Wayland setup cannot crash Minecraft. */
     private boolean createIfNeeded() {
         if (frame != null) return true;
         if (GraphicsEnvironment.isHeadless()) {
@@ -112,14 +110,14 @@ public final class CoordWindow {
             });
             frame.addWindowListener(new WindowAdapter() {
                 @Override public void windowClosing(WindowEvent event) {
-                    // Treat the window-manager close button like the F6 toggle.
+
                     wantedVisible = false;
                     persistBounds();
                 }
             });
             return true;
         } catch (Throwable exception) {
-            // AWT can throw native-window errors beyond HeadlessException on misconfigured Linux displays.
+
             disable("Could not create coordinate window; check DISPLAY/Wayland environment", exception);
             return false;
         }

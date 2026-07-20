@@ -1,5 +1,5 @@
 plugins {
-    // Loom 1.13 supports both legacy 1.21.1 mappings and 1.21.11's newer unpick format.
+
     id 'fabric-loom' version '1.13-SNAPSHOT'
     id 'maven-publish'
 }
@@ -12,7 +12,7 @@ base {
 }
 
 repositories {
-    // Fabric's Maven hosts Fabric API and Yarn mappings.
+
     maven { url = 'https://maven.fabricmc.net/' }
 }
 
