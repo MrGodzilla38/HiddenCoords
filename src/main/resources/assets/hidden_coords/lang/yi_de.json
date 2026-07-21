@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "קאָאָרדינאַטן איבערלאַג",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "דימענסיע: %s",
+  "hidden_coords.dimension.placeholder": "דימענסיע: --",
+  "hidden_coords.biome.format": "ביאָם: %s",
+  "hidden_coords.biome.placeholder": "ביאָם: --",
+  "hidden_coords.biome.unknown": "אומבאַקאַנטער ביאָם",
+  "hidden_coords.dimension.overworld": "איבערוועלט",
+  "hidden_coords.dimension.nether": "נעטהער",
+  "hidden_coords.dimension.end": "סוף",
+  "key.hidden_coords.toggle": "צעשאַלטן קאָאָרדינאַטן פֿענצטער"
+}

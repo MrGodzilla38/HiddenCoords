@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Lớp phủ tọa độ",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Chiều không gian: %s",
+  "hidden_coords.dimension.placeholder": "Chiều không gian: --",
+  "hidden_coords.biome.format": "Quần xã: %s",
+  "hidden_coords.biome.placeholder": "Quần xã: --",
+  "hidden_coords.biome.unknown": "Quần xã không xác định",
+  "hidden_coords.dimension.overworld": "Thế giới ngầm",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "Kết thúc",
+  "key.hidden_coords.toggle": "Chuyển đổi cửa sổ tọa độ"
+}

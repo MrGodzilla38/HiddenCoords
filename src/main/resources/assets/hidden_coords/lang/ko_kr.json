@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "좌표 오버레이",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "차원: %s",
+  "hidden_coords.dimension.placeholder": "차원: --",
+  "hidden_coords.biome.format": "생물 군계: %s",
+  "hidden_coords.biome.placeholder": "생물 군계: --",
+  "hidden_coords.biome.unknown": "알 수 없는 생물 군계",
+  "hidden_coords.dimension.overworld": "오버월드",
+  "hidden_coords.dimension.nether": "네더",
+  "hidden_coords.dimension.end": "엔드",
+  "key.hidden_coords.toggle": "좌표 창 전환"
+}

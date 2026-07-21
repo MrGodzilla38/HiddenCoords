@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Наложение координат",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Измерение: %s",
+  "hidden_coords.dimension.placeholder": "Измерение: --",
+  "hidden_coords.biome.format": "Биом: %s",
+  "hidden_coords.biome.placeholder": "Биом: --",
+  "hidden_coords.biome.unknown": "Неизвестный биом",
+  "hidden_coords.dimension.overworld": "Верхний мир",
+  "hidden_coords.dimension.nether": "Недер",
+  "hidden_coords.dimension.end": "Конец",
+  "key.hidden_coords.toggle": "Переключить окно координат"
+}

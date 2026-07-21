@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Koordinātu pārklājums",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Dimensija: %s",
+  "hidden_coords.dimension.placeholder": "Dimensija: --",
+  "hidden_coords.biome.format": "Bioms: %s",
+  "hidden_coords.biome.placeholder": "Bioms: --",
+  "hidden_coords.biome.unknown": "Nezināms bioms",
+  "hidden_coords.dimension.overworld": "Virsējā pasaule",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "Beigas",
+  "key.hidden_coords.toggle": "Pārslēgt koordinātu logu"
+}

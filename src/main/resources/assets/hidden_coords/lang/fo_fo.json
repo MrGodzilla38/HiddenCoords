@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Koordinatayvirleiing",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Vídd: %s",
+  "hidden_coords.dimension.placeholder": "Vídd: --",
+  "hidden_coords.biome.format": "Biom: %s",
+  "hidden_coords.biome.placeholder": "Biom: --",
+  "hidden_coords.biome.unknown": "Ókendur biomur",
+  "hidden_coords.dimension.overworld": "Yvirheimur",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "Endi",
+  "key.hidden_coords.toggle": "Skift koordinatvindeyga"
+}

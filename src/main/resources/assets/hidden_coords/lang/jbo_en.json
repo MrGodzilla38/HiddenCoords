@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "ko'o pagbu",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "rofsi: %s",
+  "hidden_coords.dimension.placeholder": "rofsi: --",
+  "hidden_coords.biome.format": "remna: %s",
+  "hidden_coords.biome.placeholder": "remna: --",
+  "hidden_coords.biome.unknown": "remna na ku",
+  "hidden_coords.dimension.overworld": "galtu",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "mulno",
+  "key.hidden_coords.toggle": "tolcanci lo koʼo girzu"
+}

@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Gorrans kesorden",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Mynth: %s",
+  "hidden_coords.dimension.placeholder": "Mynth: --",
+  "hidden_coords.biome.format": "Bywva: %s",
+  "hidden_coords.biome.placeholder": "Bywva: --",
+  "hidden_coords.biome.unknown": "Bywva anaswonnys",
+  "hidden_coords.dimension.overworld": "An Nor Uhel",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "Diwedh",
+  "key.hidden_coords.toggle": "Toglo fenester kesorden"
+}

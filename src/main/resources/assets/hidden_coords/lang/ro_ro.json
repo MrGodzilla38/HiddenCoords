@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Suprapunere coordonate",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Dimensiune: %s",
+  "hidden_coords.dimension.placeholder": "Dimensiune: --",
+  "hidden_coords.biome.format": "Biom: %s",
+  "hidden_coords.biome.placeholder": "Biom: --",
+  "hidden_coords.biome.unknown": "Biom necunoscut",
+  "hidden_coords.dimension.overworld": "Lumea de deasupra",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "Sfârșit",
+  "key.hidden_coords.toggle": "Comută fereastra de coordonate"
+}

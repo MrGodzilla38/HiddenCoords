@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "تيمڤا تيڠکڤ کوردينت",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: %d",
+  "hidden_coords.dimension.format": "ديمنسي: %s",
+  "hidden_coords.dimension.placeholder": "ديمنسي: --",
+  "hidden_coords.biome.format": "بيوم: %s",
+  "hidden_coords.biome.placeholder": "بيوم: --",
+  "hidden_coords.biome.unknown": "بيوم تيدق دکتاهوءي",
+  "hidden_coords.dimension.overworld": "دونيا اتس",
+  "hidden_coords.dimension.nether": "نتر",
+  "hidden_coords.dimension.end": "اخير",
+  "key.hidden_coords.toggle": "توقول تيتیڠکڤ کوردينت"
+}

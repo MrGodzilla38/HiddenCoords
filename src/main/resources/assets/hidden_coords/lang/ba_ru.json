@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Координаттар ҡатламы",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Үлсәм: %s",
+  "hidden_coords.dimension.placeholder": "Үлсәм: --",
+  "hidden_coords.biome.format": "Биом: %s",
+  "hidden_coords.biome.placeholder": "Биом: --",
+  "hidden_coords.biome.unknown": "Билдәһеҙ биом",
+  "hidden_coords.dimension.overworld": "Өҫкө донъя",
+  "hidden_coords.dimension.nether": "Недер",
+  "hidden_coords.dimension.end": "Аҙаҡ",
+  "key.hidden_coords.toggle": "Координаталар тәҙрәһен алмаштырыу"
+}

@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Gorgyfnerth cyfesurynnau",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Dimensiwn: %s",
+  "hidden_coords.dimension.placeholder": "Dimensiwn: --",
+  "hidden_coords.biome.format": "Biom: %s",
+  "hidden_coords.biome.placeholder": "Biom: --",
+  "hidden_coords.biome.unknown": "Biom anhysbys",
+  "hidden_coords.dimension.overworld": "Y Byd Uwch",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "Diwedd",
+  "key.hidden_coords.toggle": "Toglo ffenestr cyfesurynnau"
+}

@@ -50,16 +50,16 @@ public final class CoordOverlayClient implements ClientModInitializer {
 
         Identifier biomeId = biome.getKey().map(key -> key.getValue()).orElse(null);
 
-        String biomeName = biomeId == null ? "Unknown biome" : translatedBiomeName(biomeId);
+        String biomeName = biomeId == null ? Text.translatable("hidden_coords.biome.unknown").getString() : translatedBiomeName(biomeId);
         Identifier dimensionId = client.world.getRegistryKey().getValue();
         window.update(new CoordinateSnapshot(pos.getX(), pos.getY(), pos.getZ(), dimensionName(dimensionId), biomeName));
     }
 
     private static String dimensionName(Identifier id) {
         return switch (id.toString()) {
-            case "minecraft:overworld" -> "Overworld";
-            case "minecraft:the_nether" -> "Nether";
-            case "minecraft:the_end" -> "End";
+            case "minecraft:overworld" -> Text.translatable("hidden_coords.dimension.overworld").getString();
+            case "minecraft:the_nether" -> Text.translatable("hidden_coords.dimension.nether").getString();
+            case "minecraft:the_end" -> Text.translatable("hidden_coords.dimension.end").getString();
             default -> prettyName(id.getPath());
         };
     }

@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Преклопување на координати",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Димензија: %s",
+  "hidden_coords.dimension.placeholder": "Димензија: --",
+  "hidden_coords.biome.format": "Биом: %s",
+  "hidden_coords.biome.placeholder": "Биом: --",
+  "hidden_coords.biome.unknown": "Непознат биом",
+  "hidden_coords.dimension.overworld": "Горен свет",
+  "hidden_coords.dimension.nether": "Недер",
+  "hidden_coords.dimension.end": "Крај",
+  "key.hidden_coords.toggle": "Префрли го прозорецот со координати"
+}

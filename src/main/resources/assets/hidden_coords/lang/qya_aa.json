@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Koartina telemnar",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Ampano: %s",
+  "hidden_coords.dimension.placeholder": "Ampano: --",
+  "hidden_coords.biome.format": "Corna: %s",
+  "hidden_coords.biome.placeholder": "Corna: --",
+  "hidden_coords.biome.unknown": "Lá ista corna",
+  "hidden_coords.dimension.overworld": "Ambar metta",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "Metta",
+  "key.hidden_coords.toggle": "Tulta coartina fenestra"
+}

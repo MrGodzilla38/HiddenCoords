@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "تراكب الإحداثيات",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "البعد: %s",
+  "hidden_coords.dimension.placeholder": "البعد: --",
+  "hidden_coords.biome.format": "المنطقة الحيوية: %s",
+  "hidden_coords.biome.placeholder": "المنطقة الحيوية: --",
+  "hidden_coords.biome.unknown": "منطقة حيوية غير معروفة",
+  "hidden_coords.dimension.overworld": "العالم العلوي",
+  "hidden_coords.dimension.nether": "السفلى",
+  "hidden_coords.dimension.end": "النهاية",
+  "key.hidden_coords.toggle": "تبديل نافذة الإحداثيات"
+}

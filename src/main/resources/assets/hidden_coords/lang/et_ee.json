@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Koordinaatide kiht",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Mõõde: %s",
+  "hidden_coords.dimension.placeholder": "Mõõde: --",
+  "hidden_coords.biome.format": "Bioom: %s",
+  "hidden_coords.biome.placeholder": "Bioom: --",
+  "hidden_coords.biome.unknown": "Tundmatu bioom",
+  "hidden_coords.dimension.overworld": "Pealmaailm",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "Lõpp",
+  "key.hidden_coords.toggle": "Lülita koordinaatide aken"
+}

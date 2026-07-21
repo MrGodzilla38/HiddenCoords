@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "ஆள்கூறு மேலடுக்கு",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "பரிமாணம்: %s",
+  "hidden_coords.dimension.placeholder": "பரிமாணம்: --",
+  "hidden_coords.biome.format": "உயிரியம்: %s",
+  "hidden_coords.biome.placeholder": "உயிரியம்: --",
+  "hidden_coords.biome.unknown": "அறியப்படாத உயிரியம்",
+  "hidden_coords.dimension.overworld": "மேல் உலகம்",
+  "hidden_coords.dimension.nether": "நெதர்",
+  "hidden_coords.dimension.end": "முடிவு",
+  "key.hidden_coords.toggle": "ஆள்கூறு சாளரத்தை மாற்று"
+}

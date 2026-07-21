@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "ನಿರ್ದೇಶಾಂಕ ಓವರ್ಲೇ",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "ಆಯಾಮ: %s",
+  "hidden_coords.dimension.placeholder": "ಆಯಾಮ: --",
+  "hidden_coords.biome.format": "ಜೈವಿಕ ವಲಯ: %s",
+  "hidden_coords.biome.placeholder": "ಜೈವಿಕ ವಲಯ: --",
+  "hidden_coords.biome.unknown": "ಅಜ್ಞಾತ ಜೈವಿಕ ವಲಯ",
+  "hidden_coords.dimension.overworld": "ಮೇಲ್ಮೈ ಪ್ರಪಂಚ",
+  "hidden_coords.dimension.nether": "ನೆದರ್",
+  "hidden_coords.dimension.end": "ಅಂತ್ಯ",
+  "key.hidden_coords.toggle": "ನಿರ್ದೇಶಾಂಕ ವಿಂಡೋವನ್ನು ಟಾಗಲ್ ಮಾಡಿ"
+}

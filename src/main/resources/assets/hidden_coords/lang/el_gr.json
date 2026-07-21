@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Επικάλυψη συντεταγμένων",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Διάσταση: %s",
+  "hidden_coords.dimension.placeholder": "Διάσταση: --",
+  "hidden_coords.biome.format": "Βίωμα: %s",
+  "hidden_coords.biome.placeholder": "Βίωμα: --",
+  "hidden_coords.biome.unknown": "Άγνωστο βίωμα",
+  "hidden_coords.dimension.overworld": "Υπερκόσμος",
+  "hidden_coords.dimension.nether": "Κάτω Κόσμος",
+  "hidden_coords.dimension.end": "Τέλος",
+  "key.hidden_coords.toggle": "Εναλλαγή παραθύρου συντεταγμένων"
+}

@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Mkpuchi nhazi",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Akụkụ: %s",
+  "hidden_coords.dimension.placeholder": "Akụkụ: --",
+  "hidden_coords.biome.format": "Biome: %s",
+  "hidden_coords.biome.placeholder": "Biome: --",
+  "hidden_coords.biome.unknown": "Biome amaghị",
+  "hidden_coords.dimension.overworld": "Elu ụwa",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "Ọgwụgwụ",
+  "key.hidden_coords.toggle": "Gbanwee windo nhazi"
+}

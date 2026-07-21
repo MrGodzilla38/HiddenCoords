@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Sovrapposizzjoni tal-koordinati",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Dimensjoni: %s",
+  "hidden_coords.dimension.placeholder": "Dimensjoni: --",
+  "hidden_coords.biome.format": "Bijoma: %s",
+  "hidden_coords.biome.placeholder": "Bijoma: --",
+  "hidden_coords.biome.unknown": "Bijoma mhux magħruf",
+  "hidden_coords.dimension.overworld": "Dinja ta' Fuq",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "Tmiem",
+  "key.hidden_coords.toggle": "Ibdel it-tieqa tal-koordinati"
+}

@@ -1,4 +1,6 @@
 {
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
   "hidden_coords.window.title": "Coordinate Overlay",
   "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
   "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
@@ -6,11 +8,9 @@
   "hidden_coords.dimension.placeholder": "Dimension: --",
   "hidden_coords.biome.format": "Biome: %s",
   "hidden_coords.biome.placeholder": "Biome: --",
-  "hidden_coords.biome.unknown": "Unknown biome",
+  "hidden_coords.biome.unknown": "Unknowne biome",
   "hidden_coords.dimension.overworld": "Overworld",
   "hidden_coords.dimension.nether": "Nether",
   "hidden_coords.dimension.end": "End",
-  "key.category.hidden_coords": "Hidden Coords",
-  "key.category.hidden_coords.main": "Hidden Coords",
-  "key.hidden_coords.toggle": "Toggle coordinate window"
+  "key.hidden_coords.toggle": "Toggle teh coordinayt winder"
 }

@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "坐标叠加",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "维度: %s",
+  "hidden_coords.dimension.placeholder": "维度: --",
+  "hidden_coords.biome.format": "生物群系: %s",
+  "hidden_coords.biome.placeholder": "生物群系: --",
+  "hidden_coords.biome.unknown": "未知生物群系",
+  "hidden_coords.dimension.overworld": "主世界",
+  "hidden_coords.dimension.nether": "下界",
+  "hidden_coords.dimension.end": "末地",
+  "key.hidden_coords.toggle": "切换坐标窗口"
+}

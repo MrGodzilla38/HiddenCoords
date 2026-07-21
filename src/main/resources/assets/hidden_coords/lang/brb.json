@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Coördinaote-overlay",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Dimensie: %s",
+  "hidden_coords.dimension.placeholder": "Dimensie: --",
+  "hidden_coords.biome.format": "Bioom: %s",
+  "hidden_coords.biome.placeholder": "Bioom: --",
+  "hidden_coords.biome.unknown": "Oonbekende bioom",
+  "hidden_coords.dimension.overworld": "Bovenwereld",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "End",
+  "key.hidden_coords.toggle": "Coördinaotevenster omschakele"
+}

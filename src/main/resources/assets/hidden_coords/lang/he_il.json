@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "שכבת-על של קואורדינטות",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "מימד: %s",
+  "hidden_coords.dimension.placeholder": "מימד: --",
+  "hidden_coords.biome.format": "ביום: %s",
+  "hidden_coords.biome.placeholder": "ביום: --",
+  "hidden_coords.biome.unknown": "ביום לא ידוע",
+  "hidden_coords.dimension.overworld": "העולם העליון",
+  "hidden_coords.dimension.nether": "השאול",
+  "hidden_coords.dimension.end": "הסוף",
+  "key.hidden_coords.toggle": "החלפת חלון קואורדינטות"
+}

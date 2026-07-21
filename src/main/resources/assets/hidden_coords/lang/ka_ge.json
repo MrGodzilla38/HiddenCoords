@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "კოორდინატების გადაფარვა",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "განზომილება: %s",
+  "hidden_coords.dimension.placeholder": "განზომილება: --",
+  "hidden_coords.biome.format": "ბიომი: %s",
+  "hidden_coords.biome.placeholder": "ბიომი: --",
+  "hidden_coords.biome.unknown": "უცნობი ბიომი",
+  "hidden_coords.dimension.overworld": "ზედა სამყარო",
+  "hidden_coords.dimension.nether": "ნეთერი",
+  "hidden_coords.dimension.end": "დასასრული",
+  "key.hidden_coords.toggle": "კოორდინატების ფანჯრის გადართვა"
+}

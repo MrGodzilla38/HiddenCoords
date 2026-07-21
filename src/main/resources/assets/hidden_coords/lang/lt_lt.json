@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Koordinačių perdanga",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Dimensija: %s",
+  "hidden_coords.dimension.placeholder": "Dimensija: --",
+  "hidden_coords.biome.format": "Biomas: %s",
+  "hidden_coords.biome.placeholder": "Biomas: --",
+  "hidden_coords.biome.unknown": "Nežinomas biomas",
+  "hidden_coords.dimension.overworld": "Paviršiaus pasaulis",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "Pabaiga",
+  "key.hidden_coords.toggle": "Perjungti koordinačių langą"
+}
