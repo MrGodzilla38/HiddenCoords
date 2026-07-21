@@ -47,14 +47,6 @@ Since OBS "Game Capture" / "Window Capture" only grabs the Minecraft window, thi
 
 Works on Windows, macOS, and Linux. On Linux, the window renders through XWayland when running under Wayland sessions — this works out of the box in most desktop environments. "Always on Top" behavior may vary depending on your window manager/compositor.
 
-## Building from source
-
-```bash
-./gradlew build
-```
-
-The compiled mod jar will be located in `build/libs/`.
-
 ## License
 
-See [LICENSE](LICENSE) for details.
+See [MIT](LICENSE) for details.
