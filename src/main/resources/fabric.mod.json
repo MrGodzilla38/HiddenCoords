@@ -3,8 +3,8 @@
   "id": "hidden_coords",
   "version": "${version}",
   "name": "Hidden Coords",
-  "description": "Displays the player's coordinates in a separate Swing window.",
-  "authors": ["HiddenCoords contributors"],
+  "description": "A minimal client-side Fabric mod that displays your coordinates, dimension, and biome in a separate desktop window — completely outside Minecraft's own game window.",
+  "authors": ["UstaGodzilla (Github: MrGodzilla38)"],
   "environment": "client",
   "entrypoints": {
     "main": ["dev.hiddencoords.CoordOverlayMod"],
