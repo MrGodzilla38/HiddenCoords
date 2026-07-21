@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Накладка каардынат",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Вымярэнне: %s",
+  "hidden_coords.dimension.placeholder": "Вымярэнне: --",
+  "hidden_coords.biome.format": "Біём: %s",
+  "hidden_coords.biome.placeholder": "Біём: --",
+  "hidden_coords.biome.unknown": "Невядомы біём",
+  "hidden_coords.dimension.overworld": "Звышсвет",
+  "hidden_coords.dimension.nether": "Ніжні свет",
+  "hidden_coords.dimension.end": "Канец",
+  "key.hidden_coords.toggle": "Пераключыць акно каардынат"
+}

@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "การซ้อนทับพิกัด",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "มิติ: %s",
+  "hidden_coords.dimension.placeholder": "มิติ: --",
+  "hidden_coords.biome.format": "ไบโอม: %s",
+  "hidden_coords.biome.placeholder": "ไบโอม: --",
+  "hidden_coords.biome.unknown": "ไบโอมที่ไม่รู้จัก",
+  "hidden_coords.dimension.overworld": "โลกบน",
+  "hidden_coords.dimension.nether": "เนเธอร์",
+  "hidden_coords.dimension.end": "จุดสิ้นสุด",
+  "key.hidden_coords.toggle": "สลับหน้าต่างพิกัด"
+}

@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Fòir-chomharran",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Meud: %s",
+  "hidden_coords.dimension.placeholder": "Meud: --",
+  "hidden_coords.biome.format": "Bith-thìr: %s",
+  "hidden_coords.biome.placeholder": "Bith-thìr: --",
+  "hidden_coords.biome.unknown": "Bith-thìr neo-aithnichte",
+  "hidden_coords.dimension.overworld": "An Saol Uarach",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "Deireadh",
+  "key.hidden_coords.toggle": "Togail uinneag cho-chomharran"
+}

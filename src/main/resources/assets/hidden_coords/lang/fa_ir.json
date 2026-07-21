@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "پوشش مختصات",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "بعد: %s",
+  "hidden_coords.dimension.placeholder": "بعد: --",
+  "hidden_coords.biome.format": "زیست‌بوم: %s",
+  "hidden_coords.biome.placeholder": "زیست‌بوم: --",
+  "hidden_coords.biome.unknown": "زیست‌بوم ناشناخته",
+  "hidden_coords.dimension.overworld": "دنیای بالایی",
+  "hidden_coords.dimension.nether": "نت‌ر",
+  "hidden_coords.dimension.end": "پایان",
+  "key.hidden_coords.toggle": "تغییر وضعیت پنجره مختصات"
+}

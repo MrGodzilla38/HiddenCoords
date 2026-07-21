@@ -4,6 +4,8 @@ import dev.hiddencoords.CoordOverlayMod;
 import dev.hiddencoords.CoordinateSnapshot;
 import dev.hiddencoords.OverlayConfig;
 
+import net.minecraft.text.Text;
+
 import javax.swing.BorderFactory;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -23,6 +25,14 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
 public final class CoordWindow {
+    private static String TITLE;
+    private static String COORDS_FMT;
+    private static String COORDS_PH;
+    private static String DIM_FMT;
+    private static String DIM_PH;
+    private static String BIO_FMT;
+    private static String BIO_PH;
+
     private final OverlayConfig config = OverlayConfig.load();
     private JFrame frame;
     private JLabel coordinates;
@@ -54,9 +64,10 @@ public final class CoordWindow {
         if (!available || !wantedVisible) return;
         SwingUtilities.invokeLater(() -> {
             if (!createIfNeeded()) return;
-            coordinates.setText("X: %d   Y: %d   Z: %d".formatted(snapshot.x(), snapshot.y(), snapshot.z()));
-            dimension.setText("Dimension: " + snapshot.dimension());
-            biome.setText("Biome: " + snapshot.biome());
+            loadTranslations();
+            coordinates.setText(COORDS_FMT.formatted(snapshot.x(), snapshot.y(), snapshot.z()));
+            dimension.setText(DIM_FMT.formatted(snapshot.dimension()));
+            biome.setText(BIO_FMT.formatted(snapshot.biome()));
             if (wantedVisible) frame.setVisible(true);
         });
     }
@@ -84,7 +95,8 @@ public final class CoordWindow {
             return false;
         }
         try {
-            frame = new JFrame("Coordinate Overlay");
+            loadTranslations();
+            frame = new JFrame(TITLE);
             frame.setAutoRequestFocus(false);
             frame.setDefaultCloseOperation(WindowConstants.HIDE_ON_CLOSE);
             frame.setAlwaysOnTop(config.alwaysOnTop);
@@ -98,9 +110,9 @@ public final class CoordWindow {
             content.setBorder(BorderFactory.createEmptyBorder(12, 14, 12, 14));
             JPanel rows = new JPanel(new GridLayout(3, 1, 0, 7));
             rows.setOpaque(false);
-            coordinates = label("X: --   Y: --   Z: --", Font.BOLD);
-            dimension = label("Dimension: --", Font.PLAIN);
-            biome = label("Biome: --", Font.PLAIN);
+            coordinates = label(COORDS_PH, Font.BOLD);
+            dimension = label(DIM_PH, Font.PLAIN);
+            biome = label(BIO_PH, Font.PLAIN);
             rows.add(coordinates); rows.add(dimension); rows.add(biome);
             content.add(rows, BorderLayout.CENTER);
             frame.setContentPane(content);
@@ -121,6 +133,17 @@ public final class CoordWindow {
             disable("Could not create coordinate window; check DISPLAY/Wayland environment", exception);
             return false;
         }
+    }
+
+    private static void loadTranslations() {
+        if (TITLE != null) return;
+        TITLE = Text.translatable("hidden_coords.window.title").getString();
+        COORDS_FMT = Text.translatable("hidden_coords.coordinates.format").getString();
+        COORDS_PH = Text.translatable("hidden_coords.coordinates.placeholder").getString();
+        DIM_FMT = Text.translatable("hidden_coords.dimension.format").getString();
+        DIM_PH = Text.translatable("hidden_coords.dimension.placeholder").getString();
+        BIO_FMT = Text.translatable("hidden_coords.biome.format").getString();
+        BIO_PH = Text.translatable("hidden_coords.biome.placeholder").getString();
     }
 
     private JLabel label(String text, int style) {

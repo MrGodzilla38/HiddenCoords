@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Tavolo de koordinatoj",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Dimensio: %s",
+  "hidden_coords.dimension.placeholder": "Dimensio: --",
+  "hidden_coords.biome.format": "Biomo: %s",
+  "hidden_coords.biome.placeholder": "Biomo: --",
+  "hidden_coords.biome.unknown": "Nekonata biomo",
+  "hidden_coords.dimension.overworld": "Supra mondo",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "Fino",
+  "key.hidden_coords.toggle": "Ŝalti koordinatan fenestron"
+}

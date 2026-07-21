@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Àwòkè ipoidojuko",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Iwọn: %s",
+  "hidden_coords.dimension.placeholder": "Iwọn: --",
+  "hidden_coords.biome.format": "Ibùgbé: %s",
+  "hidden_coords.biome.placeholder": "Ibùgbé: --",
+  "hidden_coords.biome.unknown": "Ibùgbé àìmọ",
+  "hidden_coords.dimension.overworld": "Aye loke",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "Opin",
+  "key.hidden_coords.toggle": "Yipada window ipoidojuko"
+}

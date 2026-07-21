@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "निर्देशांक ओवरले",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "आयाम: %s",
+  "hidden_coords.dimension.placeholder": "आयाम: --",
+  "hidden_coords.biome.format": "बायोम: %s",
+  "hidden_coords.biome.placeholder": "बायोम: --",
+  "hidden_coords.biome.unknown": "अज्ञात बायोम",
+  "hidden_coords.dimension.overworld": "ऊपरी दुनिया",
+  "hidden_coords.dimension.nether": "नेदर",
+  "hidden_coords.dimension.end": "अंत",
+  "key.hidden_coords.toggle": "निर्देशांक विंडो टॉगल करें"
+}

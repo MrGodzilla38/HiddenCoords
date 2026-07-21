@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "lipu nanpa",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "ma suli: %s",
+  "hidden_coords.dimension.placeholder": "ma suli: --",
+  "hidden_coords.biome.format": "ma: %s",
+  "hidden_coords.biome.placeholder": "ma: --",
+  "hidden_coords.biome.unknown": "ma sona ala",
+  "hidden_coords.dimension.overworld": "ma sewi",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "pini",
+  "key.hidden_coords.toggle": "open pana e lipu nanpa"
+}

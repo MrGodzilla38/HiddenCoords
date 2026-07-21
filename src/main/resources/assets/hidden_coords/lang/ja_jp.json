@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "座標オーバーレイ",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "次元: %s",
+  "hidden_coords.dimension.placeholder": "次元: --",
+  "hidden_coords.biome.format": "バイオーム: %s",
+  "hidden_coords.biome.placeholder": "バイオーム: --",
+  "hidden_coords.biome.unknown": "不明なバイオーム",
+  "hidden_coords.dimension.overworld": "オーバーワールド",
+  "hidden_coords.dimension.nether": "ネザー",
+  "hidden_coords.dimension.end": "ジ・エンド",
+  "key.hidden_coords.toggle": "座標ウィンドウの切り替え"
+}

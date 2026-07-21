@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Koordinat Katmanı",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Boyut: %s",
+  "hidden_coords.dimension.placeholder": "Boyut: --",
+  "hidden_coords.biome.format": "Biom: %s",
+  "hidden_coords.biome.placeholder": "Biom: --",
+  "hidden_coords.biome.unknown": "Bilinmeyen biom",
+  "hidden_coords.dimension.overworld": "Normal Dünya",
+  "hidden_coords.dimension.nether": "Nether",
+  "hidden_coords.dimension.end": "Son",
+  "key.hidden_coords.toggle": "Koordinat penceresini aç/kapa"
+}

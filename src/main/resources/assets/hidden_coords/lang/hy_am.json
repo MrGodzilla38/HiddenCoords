@@ -1,0 +1,16 @@
+{
+  "key.category.hidden_coords": "Hidden Coords",
+  "key.category.hidden_coords.main": "Hidden Coords",
+  "hidden_coords.window.title": "Կոորդինատների ծածկույթ",
+  "hidden_coords.coordinates.format": "X: %d   Y: %d   Z: %d",
+  "hidden_coords.coordinates.placeholder": "X: --   Y: --   Z: --",
+  "hidden_coords.dimension.format": "Չափողականություն: %s",
+  "hidden_coords.dimension.placeholder": "Չափողականություն: --",
+  "hidden_coords.biome.format": "Կենսատարածք: %s",
+  "hidden_coords.biome.placeholder": "Կենսատարածք: --",
+  "hidden_coords.biome.unknown": "Անհայտ կենսատարածք",
+  "hidden_coords.dimension.overworld": "Վերին աշխարհ",
+  "hidden_coords.dimension.nether": "Ներքին աշխարհ",
+  "hidden_coords.dimension.end": "Վերջ",
+  "key.hidden_coords.toggle": "Փոխարկել կոորդինատների պատուհանը"
+}
