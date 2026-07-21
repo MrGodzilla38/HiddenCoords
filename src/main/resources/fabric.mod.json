@@ -3,6 +3,7 @@
   "id": "hidden_coords",
   "version": "${version}",
   "name": "Hidden Coords",
+  "icon": "assets/hidden_coords/icon.png",
   "description": "A minimal client-side Fabric mod that displays your coordinates, dimension, and biome in a separate desktop window — completely outside Minecraft's own game window.",
   "authors": ["UstaGodzilla (Github: MrGodzilla38)"],
   "environment": "client",
