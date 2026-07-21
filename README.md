@@ -49,4 +49,4 @@ Works on Windows, macOS, and Linux. On Linux, the window renders through XWaylan
 
 ## License
 
-See [MIT](LICENSE) for details.
+See [MIT](https://github.com/MrGodzilla38/HiddenCoords?tab=MIT-1-ov-file) for details.
